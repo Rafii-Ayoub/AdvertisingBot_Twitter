@@ -5,5 +5,5 @@
 #### To run the program, you must download in your python console (pip install ...): pandas - tweepy - json.
 #### Once you run it, you enter the username of a Twitter account: EmmanuelMacron - elonmusk ...
 #### There are so many problems:
-######  + Data retrieved limited due to Twitter restrictions. 
-######  + Not functional for protected accounts.
+#####  + Data retrieved limited due to Twitter restrictions. 
+#####  + Not functional for protected accounts.
