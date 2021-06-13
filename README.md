@@ -1,4 +1,4 @@
-# AdvertisingBot_Twitter
+# AdvertisingBot_Twitter ( In progress)
 
 #### This is an application written in python. It generates a visualization of the activity of our client's subscribers. By using Python to request the Twitter API, we collect data on users primarily (likes-tweets-retweets) to help predict the right time for the advertisement.
 ####
